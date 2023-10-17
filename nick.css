@@ -1,0 +1,275 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Hoves pro Trial TT', sans-serif;
+    color: black;
+    max-width: 1280;
+    max-height: 701px;
+    min-width: 376px;
+    min-height: 742px;
+}
+
+section {
+    padding: 0 120px;
+}
+
+
+
+.logo {
+    margin-top: 37px;
+    width: 295px;
+}
+
+.father {
+    display: flex;
+    margin-top: 85px;
+    gap: 30px 160px;
+    flex-wrap: wrap;
+}
+
+.bank {
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+.link {
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 140%;
+}
+
+
+h1 {
+    margin-top: 76px;
+    margin-bottom: 40px;
+    font-size: 80px;
+    line-height: 110%;
+    font-family: 'Chava';
+}
+
+p {
+    font-size: 27px;
+    font-weight: 300;
+    line-height: 140%;
+    margin-bottom: 20px;
+}
+
+.cta {
+    display: flex;
+    gap: 20px 30px;
+    flex-wrap: wrap;
+    margin-bottom: 160px;
+}
+
+.prime {
+    width: 328px;
+    color: var(--typo-white, #FFF);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 12px;
+    background: #6E3ABA;
+    padding: 20px 0;
+
+}
+
+.second {
+    width: 328px;
+    color: #6E3ABA;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 12px;
+    border: 1px solid #6E3ABA;
+    padding: 20px 0;
+}
+
+@media (max-width: 1280px) {
+    h1.title {
+        font-size: 42px;
+        width: auto;
+        color: red;
+    }
+
+    .text {
+        font-size: 18px;
+        width: auto;
+    }
+}
+
+.two {
+    font-size: 58px;
+    font-weight: 500;
+    letter-spacing: 0.58px;
+    text-transform: uppercase;
+}
+
+.grant{
+
+display: flex;
+
+}
+
+.container {
+    
+    gap: 38px 70px;
+}
+
+.Backend {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    display: flex;
+
+}
+
+h3 {
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+
+.Trial {
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+.man {
+    width: 265px;
+    height: 265px;
+    margin-top: 41px;
+    margin-right: 240px;
+}
+
+.student {
+
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    margin-top: 9px;
+
+}
+
+h4 {
+
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: uppercase;
+    margin-top: 35px;
+    margin-bottom: 20px;
+
+
+}
+
+.head {
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 140%;
+    margin-bottom: 62px;
+}
+
+
+
+
+.girl {
+    width: 270px;
+    height: 270px;
+    margin-top: 59px;
+
+}
+
+.containertwo {
+   
+    gap: 38px 88px;
+    
+
+
+}
+
+h5 {
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: uppercase;
+    margin-top: 23px;
+    margin-bottom: 20px;
+}
+
+
+h6 {
+
+
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 140%;
+    text-transform: uppercase;
+    margin-top: 11px;
+    margin-bottom: 20px;
+
+}
+
+.name {
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 140%;
+    margin-bottom: 122px;
+
+}
+
+.boy {
+
+    width: 270px;
+    height: 270px;
+    margin-top: 57px;
+    margin-right: 314px;
+
+}
+
+.women {
+
+    width: 270px;
+    height: 270px;
+    margin-top: 60px;
+
+}
+
+.programm {
+
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+
+
+}
+
+.cap {
+
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 140%;
+    margin-bottom: 160px;
+}
+
+.ride {
+    background-image: url(hhh.jpg);
+    background-position: top 100px right 58px;
+    background-repeat: no-repeat;
+}
+.boy{
+
+    
+}
